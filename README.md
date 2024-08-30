@@ -7,7 +7,8 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF5757&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<a href="#" > <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF5757&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> <\a>
+  
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
   <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
@@ -81,7 +82,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/L4r1ss4Cr4v0/L4r1ss4Cr4v0/output/snake.svg" alt="Snake animation" />
 
 ###
