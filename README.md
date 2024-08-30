@@ -56,7 +56,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="Img_Gethub.jpg"  />
+  <img height="500" src="Img_Github.jpg"  />
 </div>
 
 ###
