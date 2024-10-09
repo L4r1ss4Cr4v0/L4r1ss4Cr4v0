@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello 👋, I'm Larissa Cravo! A future software developer and student from Brazil.<br><br>📕 I’m currently doing my 2º grade in High School and studying Machine Learning by my own.<br><br>🖥️  I am looking for a job opportunity. My dream is be a Software Engenieer, work with IA and Machine Learning.</p>
+<p align="left">Hello 👋, I'm Larissa Cravo! A future software developer and currently student from Brazil.<br><br>📕 I’m doing my 2º grade in High School and studying Machine Learning by my own.<br><br>🖥️  I am looking for a job opportunity. My dream is be a Software Engenieer, work with IA and Machine Learning.</p>
 
 ###
 
