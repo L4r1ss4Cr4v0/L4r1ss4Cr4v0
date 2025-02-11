@@ -66,6 +66,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=L4r1ss4Cr4v0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=L4r1ss4Cr4v0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=l4r1ss4cr4v0" alt="l4r1ss4cr4v0">
 </div>
 
 ###
@@ -84,4 +86,3 @@
 
 <br clear="both">
 
-###
