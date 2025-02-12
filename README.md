@@ -1,4 +1,4 @@
-<h1 align="center">👩🏻💻 Hello World! ✨💯</h1>
+<h1 align="center">Hello World!</h1>
 
 ### 👋 Hello, I'm Larissa Cravo!
 
@@ -22,9 +22,11 @@
 
 <img src="Img_Github.jpg" align="center"/>
 
-__________________________________________________________________________________________________
+<div align="center">
+    
+## 🖥️ Hard Skills
 
-
+</div>
 
 <div align="left">
 
@@ -107,26 +109,28 @@ ________________________________________________________________________________
 </div>
 
 <div align="center">
-    ## 🧠 Soft Skills
-    <p>🤝 Leadership <br><br>
-      🎯 Proactivity
-      <br>
-      <br>
-      💪 Willingness to learn
-      <br>
-      <br>
-      💡 Creativity
-      <br>
-      <br>
-      💖 Empathy</p>
+    
+## 🧠 Soft Skills
+<p>🤝 Leadership <br><br>
+  🎯 Proactivity
+  <br>
+  <br>
+  💪 Willingness to learn
+  <br>
+  <br>
+  💡 Creativity
+  <br>
+  <br>
+  💖 Empathy</p>  
 </div>
 
-## Github Things
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L4r1ss4Cr4v0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <br>
+  <br>
+  <br>
+    
+  <img src="https://github-readme-stats.vercel.app/api?username=L4r1ss4Cr4v0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=L4r1ss4Cr4v0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
+  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=L4r1ss4Cr4v0&theme=dracula&hide_border=false)
 ![](https://github-profile-trophy.vercel.app/?username=L4r1ss4Cr4v0&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 [![](https://visitcount.itsvg.in/api?id=L4r1ss4Cr4v0&icon=1&color=10)](https://visitcount.itsvg.in)
