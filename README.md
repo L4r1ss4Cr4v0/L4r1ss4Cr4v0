@@ -106,18 +106,20 @@ ________________________________________________________________________________
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="postman" /> 
 </div>
 
-## 🧠 Soft Skills
-<p align="left">🤝 Leadership <br><br>
-  🎯 Proactivity
-  <br>
-  <br>
-  💪 Willingness to learn
-  <br>
-  <br>
-  💡 Creativity
-  <br>
-  <br>
-  💖 Empathy</p>
+<div align="center">
+    ## 🧠 Soft Skills
+    <p>🤝 Leadership <br><br>
+      🎯 Proactivity
+      <br>
+      <br>
+      💪 Willingness to learn
+      <br>
+      <br>
+      💡 Creativity
+      <br>
+      <br>
+      💖 Empathy</p>
+</div>
 
 ## Github Things
 
