@@ -2,16 +2,16 @@
 
 ###
 
+  <img src="Img_Github.jpg" height=400 align="right"/>
+
 <div align="left">
   <div align="left" max-width=100>
-        - Hello 👋, I'm Larissa Cravo! A future software developer and currently student from Brazil.<br>
-        - 📕 I’m doing my 2º grade in High School and studying Machine Learning by my own.<br>
+        - Hello 👋, I'm Larissa Cravo! A future software developer and currently student from Brazil.<br><br>
+        - 📕 I’m doing my 2º grade in High School and studying Machine Learning by my own.<br><br>
         - 🖥️  I am looking for a job opportunity. My dream is be a Software Engenieer, work with IA and Machine Learning.
   </p>
   </div>
-  
-  <img src="Img_Github.jpg" height=400 align="right"/>
-</div>
+
 
 
 ###
@@ -124,9 +124,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=L4r1ss4Cr4v0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 # 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=L4r1ss4Cr4v0&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=L4r1ss4Cr4v0&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=L4r1ss4Cr4v0&theme=dracula&hide_border=false)
 
 
