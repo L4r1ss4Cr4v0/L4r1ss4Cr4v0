@@ -2,7 +2,17 @@
 
 ###
 
-<p align="left">Hello 👋, I'm Larissa Cravo! A future software developer and currently student from Brazil.<br><br>📕 I’m doing my 2º grade in High School and studying Machine Learning by my own.<br><br>🖥️  I am looking for a job opportunity. My dream is be a Software Engenieer, work with IA and Machine Learning.</p>
+<div align="left">
+  <div align="left" max-width=100>
+        - Hello 👋, I'm Larissa Cravo! A future software developer and currently student from Brazil.<br>
+        - 📕 I’m doing my 2º grade in High School and studying Machine Learning by my own.<br>
+        - 🖥️  I am looking for a job opportunity. My dream is be a Software Engenieer, work with IA and Machine Learning.
+  </p>
+  </div>
+  
+  <img src="Img_Github.jpg" height=400 align="right"/>
+</div>
+
 
 ###
 
@@ -109,24 +119,24 @@
 ###
 
 <div align="center">
-  <img src="Img_Github.jpg"/>
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=L4r1ss4Cr4v0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=L4r1ss4Cr4v0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
-###
+# 📊 GitHub Stats:
 
-  <img src="https://github-profile-trophy.vercel.app/?username=l4r1ss4cr4v0" alt="l4r1ss4cr4v0">
-</div>
+![](https://github-readme-stats.vercel.app/api?username=L4r1ss4Cr4v0&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=L4r1ss4Cr4v0&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=L4r1ss4Cr4v0&theme=dracula&hide_border=false)
 
-###
 
-<h2 align="left"></h2>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=L4r1ss4Cr4v0&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=L4r1ss4Cr4v0&icon=1&color=10)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
 
