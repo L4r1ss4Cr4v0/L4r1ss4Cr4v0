@@ -14,7 +14,6 @@
    
    
 <div align="center">
-  <a href></a><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF5757&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="https://www.linkedin.com/in/larissa-cravo-154b66306/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"></a>
   <a href="https://www.behance.net/larissacravo1" target="_blank"">  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo" /></a>
   <a href="https://dribbble.com/L4r1ss4_Cr4v0" target="_blank"">   <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  /></a>
