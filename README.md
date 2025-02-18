@@ -1,6 +1,6 @@
-<h1 align="center">Hello World!</h1>
+<h1 align="center">👋 Hello, I'm Larissa Cravo!</h1>
 
-### 👋 Hello, I'm Larissa Cravo!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=ff6e97&width=587&separator=%3E&lines=System.out.println(%22Hello%2C+World!%22);%3ESELECT+nome++FROM+pessoas++WHERE+nome+%3D+'Larissa';" alt="Typing SVG" />
 
 - 🇧🇷 A future software developer and currently student from Brazil.
     <br>
@@ -11,21 +11,29 @@
  - 🖥️ I am looking for a job opportunity. My dream is be a Software Engenieer, work with IA and Machine Learning.
     <br>
     <br>
+
    
-   
-<div align="center">
-  <a href="https://www.linkedin.com/in/larissa-cravo-154b66306/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"></a>
-  <a href="https://www.behance.net/larissacravo1" target="_blank"">  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo" /></a>
-  <a href="https://dribbble.com/L4r1ss4_Cr4v0" target="_blank"">   <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  /></a>
+<div align="center"">
+  <img src="https://github-readme-stats.vercel.app/api?username=L4r1ss4Cr4v0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
+
+  <a href="https://www.linkedin.com/in/larissa-cravo-154b66306/" target="_blank" style="display: flex; flex-direction: column;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo">
+  </a>
+
+  <a href="https://www.behance.net/larissacravo1" target="_blank" style="display: flex; flex-direction: column;">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo" />
+  </a>
+  
+  <a href="https://dribbble.com/L4r1ss4_Cr4v0" target="_blank" style="display: flex; flex-direction: column;">
+    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
+  </a>
 </div>
+
+
+
+
 
 <img src="Img_Github.jpg" align="center"/>
-
-<div align="center">
-    
-## 🖥️ Hard Skills
-
-</div>
 
 <div align="left">
 
@@ -106,31 +114,15 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="postman" /> 
 </div>
-
-<div align="center">
     
-## 🧠 Soft Skills
-<p>🤝 Leadership <br><br>
-  🎯 Proactivity
   <br>
   <br>
-  💪 Willingness to learn
   <br>
-  <br>
-  💡 Creativity
-  <br>
-  <br>
-  💖 Empathy</p>  
-</div>
 
-  <br>
-  <br>
-  <br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=L4r1ss4Cr4v0&radius=16&theme=dracula&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
     
-  <img src="https://github-readme-stats.vercel.app/api?username=L4r1ss4Cr4v0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=L4r1ss4Cr4v0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=L4r1ss4Cr4v0&theme=dracula&hide_border=false)
+
 ![](https://github-profile-trophy.vercel.app/?username=L4r1ss4Cr4v0&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-[![](https://visitcount.itsvg.in/api?id=L4r1ss4Cr4v0&icon=1&color=10)](https://visitcount.itsvg.in)
 
