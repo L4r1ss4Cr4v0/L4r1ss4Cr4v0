@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Larissa Cravo!</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=ff6e97&width=587&separator=%3E&lines=System.out.println(%22Hello%2C+World!%22);%3ESELECT+nome++FROM+pessoas++WHERE+nome+%3D+'Larissa';" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=ff6e97&width=587&separator=%3E&lines=System.out.println(%22Hello%2C+World!%22);%3ESELECT+name++FROM+The_Bests++WHERE+nome+%3D+'Larissa';" alt="Typing SVG" />
 
 - 🇧🇷 A future software developer and currently student from Brazil.
     <br>
